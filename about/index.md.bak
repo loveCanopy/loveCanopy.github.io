@@ -1,0 +1,6 @@
+title: about
+date: 2015-08-14 16:31:49
+---
+This is my github's blog,there will be some sharing sources about javaee,javase,servlet,JSp,sql server,etc.
+## sina weibo
+{% link sina http://weibo.com/2326022685/ true sina %}
